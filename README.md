@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="ISS.gif" width="700">
 </p>
 
 # 🛰️ OrbitalEye — ISS Tracker (ESP32)
