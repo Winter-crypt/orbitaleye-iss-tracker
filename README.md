@@ -26,7 +26,7 @@ OrbitalEye renders a rotating globe, tracks the International Space Station live
 - Astronauts currently aboard ISS
 - Multi-screen UI
 - Live API integration
-## 🎥 Demo
+
 <p align="center">
   <img src="assets/ISS.gif" width="700">
 </p>
