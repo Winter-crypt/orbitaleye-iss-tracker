@@ -1,22 +1,15 @@
-
 <p align="center">
-  <img src="ISS.gif" width="700">
+  <img src="assets/banner.png" width="100%">
 </p>
 
 # 🛰️ OrbitalEye — ISS Tracker (ESP32)
 
 Real-time ISS tracker built with ESP32 and OLED display.  
-OrbitalEye renders a rotating globe, tracks the International Space Station live and displays orbital and crew data.
-
----
-
-## 🚀 Preview
+OrbitalEye renders a rotating globe, tracks the International Space Station live and displays orbital and crew data. 
 
 <p align="center">
-  <img src="assets/preview.png" width="700">
+  <img src="assets/ISS.gif" width="700">
 </p>
-
----
 
 ## ✨ Features
 
