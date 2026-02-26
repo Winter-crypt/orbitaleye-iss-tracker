@@ -80,6 +80,6 @@ Software globe renderer + live ISS tracking
 
 ---
 
-## 📜 License
+## 📜 License.
 
 MIT
